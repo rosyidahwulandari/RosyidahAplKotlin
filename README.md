@@ -1,0 +1,2 @@
+# RosyidahAplKotlin
+Aplikasi Kotlin Sederhana
